@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[reuters.com](https://www.aol.com/articles/exclusive-zuckerberg-says-ai-agent-201123000.html)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=2.3; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-04T02:44:56.318870+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison for people evaluating Super and Folk. Folk sits within the broader automation and agent ecosystem, while Super is purpose\u2011built for personal AI agents that actually operate computers and reuse a computer-use cache \u2014 making repeated workflows sharper and cheaper over time. This page contrasts intent, strengths, and trade\u2011offs, with sources on where the agent market is heading."
+}
